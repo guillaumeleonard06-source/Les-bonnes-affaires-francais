@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Ma Boutique</title>
+<title>LES BONNES AFFAIRES FRANÇAISE</title>
 <style>
 body{
 font-family: Arial;
